@@ -12,7 +12,7 @@ readme = "README.md"
 authors = [{ name = "Elya Brown", email = "elyavyale@gmail.com" }]
 license = { file = "COPYING" }
 classifiers = [
-    "License :: MIT",
+    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
 ]

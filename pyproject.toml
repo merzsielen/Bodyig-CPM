@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bodyig-cpm"
-version = "0.0.1"
+version = "0.0.3"
 description = "A character-pair merging module for Classical Tibetan."
 readme = "README.md"
 authors = [{ name = "Elya Brown", email = "elyavyale@gmail.com" }]

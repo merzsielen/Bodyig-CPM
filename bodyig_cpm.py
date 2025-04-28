@@ -1,5 +1,5 @@
 
-class Classical_Tibetan_CPM:
+class Bodyig_CPM:
 	# Takes a text and returns set of sets of the tokens in each sentence.
 	def Tokenize(self, text):
 
